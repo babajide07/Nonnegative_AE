@@ -1,5 +1,4 @@
 # Nonnegative_AE
-Nonnegativity-Constrained-Autoencoder-NCAE
 This Matlab code implements the Nonnegativity Constrained Sparse Autoencoder (NCSAE) for Enhanced Understandability with L1/L2 Smoothening.
 
 Reference:
